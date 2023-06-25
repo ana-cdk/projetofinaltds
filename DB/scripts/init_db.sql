@@ -120,13 +120,6 @@ CREATE TABLE Pedido (
     FOREIGN KEY (IdCliente) REFERENCES Cliente (IdCliente) ON DELETE RESTRICT
 );
 
-INSERT INTO Pedido VALUES (1, '2023-06-25 04:51:49', 608.0, 0, 1, 'b6087b56-aee5-46cb-8026-e363f01263ee', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
-INSERT INTO Pedido VALUES (2, '2023-06-25 05:31:38', 32.0, 0, 1, 'b785fc30-1270-45c8-b033-03534b7e45e9', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
-INSERT INTO Pedido VALUES (3, '2023-06-25 05:32:23', 32.0, 0, 1, '3cef61c3-8a28-4399-b1ea-2013b6789f17', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
-INSERT INTO Pedido VALUES (4, '2023-06-25 17:01:22', 128.0, 1, 1, '6c9e0805-75b9-45bb-ac6b-2a481a41416b', 'rua amazonas', '4111', NULL, 'parque independencia', 'medianeira', 'pr', '85884000', NULL);
-INSERT INTO Pedido VALUES (5, '2023-06-25 17:04:03', 32.0, 1, 1, '3477cf16-65d2-47c3-bbcb-fb9984e84f78', 'rua amazonas', '4111', NULL, 'parque independencia', 'medianeira', 'pr', '85884000', NULL);
-INSERT INTO Pedido VALUES (6, '2023-06-25 17:09:44', 352.0, 1, 1, '6aac6cde-dc83-4500-a5aa-61a39e2f65ba', 'rua amazonas', '4111', NULL, 'parque independencia', 'medianeira', 'pr', '85884000', NULL);
-
 CREATE TABLE Produto (
     IdProduto INT NOT NULL AUTO_INCREMENT,
     Nome TEXT NOT NULL,
@@ -159,13 +152,6 @@ CREATE TABLE ItemPedido (
     FOREIGN KEY (IdPedido) REFERENCES Pedido (IdPedido) ON DELETE CASCADE,
     FOREIGN KEY (IdProduto) REFERENCES Produto (IdProduto) ON DELETE RESTRICT
 );
-
-INSERT INTO ItemPedido VALUES (1, 1, 38.0, 16.0);
-INSERT INTO ItemPedido VALUES (2, 1, 2.0, 16.0);
-INSERT INTO ItemPedido VALUES (3, 1, 2.0, 16.0);
-INSERT INTO ItemPedido VALUES (4, 1, 8.0, 16.0);
-INSERT INTO ItemPedido VALUES (5, 1, 2.0, 16.0);
-INSERT INTO ItemPedido VALUES (6, 1, 22.0, 16.0);
 
 CREATE TABLE __EFMigrationsHistory (
     MigrationId VARCHAR(255) NOT NULL,
