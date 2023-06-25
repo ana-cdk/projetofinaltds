@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ecommerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ecommerce.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\img1.png",
+      "PackagePath": "staticwebassets\\img\\img1.png"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\img2.png",
+      "PackagePath": "staticwebassets\\img\\img2.png"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\name.png",
+      "PackagePath": "staticwebassets\\img\\name.png"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000001.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000001.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000002.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000002.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000003.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000003.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000004.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000004.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000005.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000005.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000006.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000006.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000007.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000007.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000008.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000008.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000009.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000009.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000010.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000010.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000011.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000011.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000012.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000012.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000013.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000013.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\000014.jpg",
+      "PackagePath": "staticwebassets\\img\\produto\\000014.jpg"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\img\\produto\\sem_imagem.JPG",
+      "PackagePath": "staticwebassets\\img\\produto\\sem_imagem.JPG"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap-input-spinner.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-input-spinner.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize-runtime.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize-runtime.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize-runtime\\currency.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize-runtime\\currency.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize-runtime\\date.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize-runtime\\date.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize-runtime\\message.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize-runtime\\message.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize-runtime\\number.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize-runtime\\number.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize-runtime\\plural.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize-runtime\\plural.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize-runtime\\relative-time.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize-runtime\\relative-time.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize-runtime\\unit.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize-runtime\\unit.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize\\currency.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize\\currency.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize\\date.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize\\date.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize\\message.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize\\message.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize\\number.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize\\number.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize\\plural.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize\\plural.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize\\relative-time.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize\\relative-time.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\globalize\\unit.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\globalize\\unit.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\globalize\\dist\\node-main.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\dist\\node-main.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation-globalize\\gulpfile.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-globalize\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation-globalize\\jquery.validate.globalize.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-globalize\\jquery.validate.globalize.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation-globalize\\jquery.validate.globalize.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-globalize\\jquery.validate.globalize.min.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Faculdade\\TDS\\ProjetoFinal\\ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ecommerce.props",
+      "PackagePath": "build\\ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ecommerce.props",
+      "PackagePath": "buildMultiTargeting\\ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ecommerce.props",
+      "PackagePath": "buildTransitive\\ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ecommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

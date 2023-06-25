@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width-devide-width" />
+    <meta charset="utf-8" lang="pt-br"/>
+    <title>Charme de Fada :: Área Administrativa</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+</head>
+<body>
+    <header class="bg-rosa">
+            <nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-dark border-bottom box-shadow mb-3">
+                 <div class="container">
+                <a class="navbar-brand" asp-page="/Index">Charme de Fada</a>
+                <ul class="navbar-nav flex-grow-1">
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-link" asp-area="" asp-page="/Admin">Área Administrativa</a>
+                        <a class="nav-link" asp-area="" asp-page="/Produto/Listar">Produtos</a>
+                        <a class="nav-link" asp-area="" asp-page="/Cliente/Listar">Clientes</a>
+                    </div>
+                </div>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section class="container" style="padding-bottom:75px;">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </section>
+    <footer class="footer bg-light text-center p-4 fixed-bottom">
+        <div class="container">
+            <span class="text-dark">Copyright &copy; 2023 - Todos os direitos reservados</span>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>

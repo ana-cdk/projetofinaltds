@@ -1,0 +1,70 @@
+@page
+@model ecommerce.Pages.Cliente.Listar
+@{
+    ViewData["titulo"] = "Listagem de Clientes";
+}
+
+<header class="container p-3">
+    <div class="row align-items-center">
+        <div class="col-sm-6"><h1>@ViewData["titulo"]</h1></div>
+        <div class="col-sm-6 text-right"><a asp-page="Incluir" class="btn btn-success" data-toggle="tooltip" title="Cadastrar um Novo Cliente">Novo Cliente</a></div>
+    </div>
+</header>
+
+<main class="container">
+    @if (Model.Clientes.Count > 0)
+    {
+        <table class="table table-striped table-light table-sm table-hover">
+            <thead class="">
+                <tr>
+                    <th>@Html.DisplayNameFor(m => m.Clientes[0].Nome)</th>
+                    <th>@Html.DisplayNameFor(m => m.Clientes[0].CPF)</th>
+                    <th>@Html.DisplayNameFor(m => m.Clientes[0].DataNascimento)</th>
+                    <th>@Html.DisplayNameFor(m => m.Clientes[0].Email)</th>
+                    <th class="text-center">Ações</th>        
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Clientes)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Nome)</td>
+                        <td>@Html.DisplayFor(modelItem => item.CPF)</td>
+                        <td>@Html.DisplayFor(modelItem => item.DataNascimento)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                        <td class="text-center">
+                            <a class="btn btn-primary btn-sm" asp-page="./Alterar" asp-route-id="@item.IdCliente"><i class="bi bi-pencil"></i></a>
+                            <form class="d-inline-block" asp-page-handler="delete" asp-route-id="@item.IdCliente" method="post">
+                                <button class="btn btn-danger btn-sm" onclick="confirmarExclusao(this);" type="button"><i class="bi bi-trash"></i></button>
+                            </form>
+                             @if (Model.EmailsAdmins.Contains(item.Email))
+                            {
+                                <form class="d-inline-block" asp-page-handler="deladmin" asp-route-id="@item.IdCliente" method="post">
+                                    <button class="btn btn-warning btn-sm p-1" type="submit" data-toggle="tooltip" title="Transformar em Usuário Comum">
+                                        <i class="bi bi-person-dash-fill"></i>
+                                    </button>
+                                </form>
+                            }
+                            else
+                            {
+                                <form class="d-inline-block" asp-page-handler="setadmin" asp-route-id="@item.IdCliente" method="post">
+                                    <button class="btn btn-warning btn-sm p-1" type="submit" data-toggle="tooltip" title="Transformar em Usuário Administrador">
+                                        <i class="bi bi-person-plus-fill"></i>
+                                    </button>
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                    }
+                    </tbody>
+                </table>
+    }
+    else
+    {
+        <h2>Não há clientes cadastrados</h2>
+    }
+</main>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_CustomConfirm");}
+}
